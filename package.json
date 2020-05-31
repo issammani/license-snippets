@@ -1,0 +1,21 @@
+{
+    "name": "license-snippets",
+    "displayName": "license-snippets",
+    "description": "Software license snippets at your disposal",
+    "publisher": "issammani",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
