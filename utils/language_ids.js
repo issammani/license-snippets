@@ -1,3 +1,4 @@
+/** Source: https://code.visualstudio.com/docs/languages/identifiers */
 module.exports = [
     "abap",
     "bat",
