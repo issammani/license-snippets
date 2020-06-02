@@ -34,7 +34,7 @@ const fetchLicenseList = async (writeStream) => {
             name: nameParts[0],
             shortId: nameParts.length >= 2 ? nameParts[1] : nameParts[0],
             url: canonicalUrl($(element).attr('href')),
-            content: content.trim().replace(/ *\n */g,'\n').replace(/(\r? ?\n ?|\r ?){3,}/g,'$1')
+            content: content.trim().replace(/ *\n */g,'\n').replace(/(\r? ?\n ?|\r ?)+/g,'$1')
         };
         jsonWriter.write(chunk);
 
