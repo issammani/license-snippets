@@ -13,448 +13,224 @@
     "contributes": {
         "snippets": [
             {
-                "language": "css",
-                "path": "./snippets/snippets.code-snippets"
-            },
-            {
                 "language": "abap",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "bat",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "bibtex",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "clojure",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "coffeescript",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "c",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "cpp",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "csharp",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "css",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "diff",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "dockerfile",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "fsharp",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "git-commit",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "git-rebase",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "go",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "groovy",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "handlebars",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "html",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "ini",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "java",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "javascript",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "javascriptreact",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "json",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "jsonc",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "latex",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "less",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "lua",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "makefile",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "markdown",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "objective-c",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "objective-cpp",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "perl",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "perl6",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "php",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "plaintext",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "powershell",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "jade",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "python",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "r",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "razor",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "ruby",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "rust",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "scss",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "sass",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "shaderlab",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "shellscript",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "sql",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "swift",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "typescript",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "typescriptreact",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "tex",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "vb",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "xml",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "xsl",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             },
             {
                 "language": "yaml",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "abap",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "bat",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "bibtex",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "clojure",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "coffeescript",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "c",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "cpp",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "csharp",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "css",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "diff",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "dockerfile",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "fsharp",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "git-commit",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "git-rebase",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "go",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "groovy",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "handlebars",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "html",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "ini",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "java",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "javascript",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "json",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "jsonc",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "latex",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "less",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "lua",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "makefile",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "markdown",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "objective-c",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "objective-cpp",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "perl",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "perl6",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "php",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "plaintext",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "powershell",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "jade",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "python",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "r",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "razor",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "ruby",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "rust",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "scss",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "sass",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "shaderlab",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "shellscript",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "sql",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "swift",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "typescript",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "tex",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "vb",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "xml",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "xsl",
-                "path": "../snippets/licenses.code-snippets"
-            },
-            {
-                "language": "yaml",
-                "path": "../snippets/licenses.code-snippets"
+                "path": "./snippets/licenses.code-snippets"
             }
         ]
     },
