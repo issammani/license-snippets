@@ -6,7 +6,7 @@ const createLicenseSnippet = ({name, shortId, url, content}) => {
     snippet[name] = {};
 
     // Set snippet prefix to be the license's shortId
-    snippet[name].prefix = shortId;
+    snippet[name].prefix = `l-${shortId}`;
 
     // Set snippet body to be the license's content
     snippet[name].body = content;
