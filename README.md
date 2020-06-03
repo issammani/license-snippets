@@ -2,6 +2,8 @@
 
 This extension integrates license snippets into VS Code.
 
+[See in Marketplace](https://marketplace.visualstudio.com/items?itemName=issammani.license-snippets)
+
 ![Screen Recording](./images/screen_recording.gif)
 
 ## Features
