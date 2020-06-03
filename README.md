@@ -14,7 +14,7 @@ This extension integrates license snippets into VS Code.
 
 ## Contributing
 
-You're feedback is always welcome, wether it's:
+Your feedback is always welcome, wether it's:
 
 - Reporting a bug
 - Discussing the current state of the code
