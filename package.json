@@ -3,6 +3,10 @@
     "displayName": "license-snippets",
     "description": "Software license snippets at your disposal",
     "publisher": "issammani",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/issammani/license-snippets"
+    },
     "icon": "images/icon.png",
     "version": "1.0.0",
     "engines": {
